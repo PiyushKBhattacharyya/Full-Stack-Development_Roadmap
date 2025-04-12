@@ -1,0 +1,17 @@
+* {
+    background:antiquewhite;
+    color: rgb(0, 0, 0);
+    outline: 2px solid red
+}
+
+.content {
+    color: rgb(234, 109, 0);
+}
+
+.main .list {
+    color: rgb(154, 0, 0);
+}
+
+#list_rel {
+    color:rgb(255, 75, 75)
+}
